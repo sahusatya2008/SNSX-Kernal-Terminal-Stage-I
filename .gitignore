@@ -1,0 +1,22 @@
+# OS / binaries
+*.iso
+*.img
+*.bin
+*.elf
+
+# Virtual machines
+*.vdi
+*.vbox
+
+# Archives
+*.zip
+*.tar
+*.gz
+
+# Logs
+*.log
+
+# Cache / junk
+node_modules/
+__pycache__/
+.DS_Store
